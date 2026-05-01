@@ -30,6 +30,8 @@ The mesh is generated from the captured LiDAR data using a TSDF-based reconstruc
 
 <img width="2559" height="1369" src="https://github.com/user-attachments/assets/50393fa9-938b-4d76-a203-43aede121b27" />
 
+
+> Note: The mesh reconstruction cannot generate meshes in highly obstructed areas leading to holes in areas where the scanner didn't originally see such as directly under the rig or behind the table as seen in this image
 ---
 
 ## LiDAR Rig
