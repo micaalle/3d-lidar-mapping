@@ -26,7 +26,7 @@ The raw point cloud shows the actual LiDAR measurements directly.
 
 ## TSDF Mesh Reconstruction
 
-The mesh is generated from the captured LiDAR data using a TSDF-based reconstruction process. This helps visualize larger surfaces more clearly, although the mesh can mess up some finer details and teh process needs tuning but in its current state provides good supplementary context to the points.
+The mesh is generated from the captured LiDAR data using a TSDF-based reconstruction process. This helps visualize larger surfaces more clearly, although the mesh can mess up some finer details and the process needs tuning but in its current state provides good supplementary context to the points.
 
 <img width="2559" height="1369" src="https://github.com/user-attachments/assets/50393fa9-938b-4d76-a203-43aede121b27" />
 
